@@ -23,15 +23,25 @@ $\textbf{Paradigm-II: Divide and Conquer}$
 $\textbf{Paradigm-III: Dynamic Programming}$
 > $\bullet$ Weighted Interval scheduling problem
 
-> ⭐ Shortest path in a weighted graph: $\bullet$ Bellman-Ford algorithm $\bullet$ Dijkstra algorithms
->
-> $\bullet$ All pair shortest path problem (APSP)
+> ⭐ Shortest path in a weighted graph G(V,E):
+> 
+> $\bullet$ Bellman-Ford $\mathcal{O}(|E| \cdot |V|)$ algorithm
+> 
+> $\bullet$ Dijkstra $\mathcal{O}(|E| + |V|log|V|)$ algorithms
+
+> ⭐ All pair shortest path problem (APSP): Floyd-Warshall $\mathcal{O}(|V|^3)$ algorithm
 >
 > ⭐ Knapsack problem using dynamic programming
 
 ## Part-II: Maximum Flow and Minimum Cut (MFmC) Theorem
-$\textbf{Maximum Flow Problem in a network}:$ 
+$\textbf{Maximum Flow Problem in a Graph(V,E)}:$ 
 
 $\textbf{Relation of Max-Flow with Min-Cut using MFmC algorithm}:$
-> 
+>
+> 🌟 Ford-Fulkerson $\mathcal{O}(E\cdot 2^{[log(f)]})$ Algorithm, where 'f' is the maximum edge flow.
+
+> 🌟 Improvement in Ford-Fulkerson algo. by Edmond-Karp $\mathcal{O}(V\cdot |E|^2)$ algorithm
+
+> Applications in $\bullet$ Densest Subgraph Problem   $\bullet$ Baseball elimination estimation
+>
 
