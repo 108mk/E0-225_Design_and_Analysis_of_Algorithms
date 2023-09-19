@@ -40,8 +40,10 @@ $\textbf{Relation of Max-Flow with Min-Cut using MFmC algorithm}:$
 >
 > 🌟 Ford-Fulkerson $\mathcal{O}(E\cdot 2^{[log(f)]})$ Algorithm, where 'f' is the maximum edge flow.
 
-> 🌟 Improvement in Ford-Fulkerson algo. by Edmond-Karp $\mathcal{O}(V\cdot |E|^2)$ algorithm
+> 🌟 Improvement in Ford-Fulkerson algo. by Edmond-Karp $\mathcal{O}(V\cdot |E|^2)$ algorithm via Breath first search
+> 
+> ⭐ Orlin's Algorithm: $\mathcal{O}(V\cdot |E|)$ [Without Proof]
 
-> Applications in $\bullet$ Densest Subgraph Problem   $\bullet$ Baseball elimination estimation
+> Applications in $\bullet$ Densest Subgraph Problem   $\bullet$ Baseball elimination estimation   $\bullet$ Project-resource selection problem
 >
 
