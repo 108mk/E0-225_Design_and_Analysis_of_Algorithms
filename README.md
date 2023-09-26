@@ -50,13 +50,13 @@ $\textbf{Relation of Max-Flow with Min-Cut using MFmC algorithm}:$
 ## Part-III: Linear Programming and Dual Problem
 $Standard\ LP\ Template:$
 
-> Find a vector: $x$
+> Find a vector: $\vec{x}$
 > 
-> that optimizes: $c^T x$
+> that optimizes: $c^T \vec{x}$
 > 
-> subjected to:  $Ax \le b$
+> subjected to:  $A\vec{x} \le b$
 > 
-> and: $x> 0$
+> and: $\vec{x}> 0$
 
 $\textbf{Casting problems as Linear programming problem}:$
 >
