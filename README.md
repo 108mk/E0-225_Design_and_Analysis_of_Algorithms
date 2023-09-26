@@ -44,6 +44,27 @@ $\textbf{Relation of Max-Flow with Min-Cut using MFmC algorithm}:$
 > 
 > ⭐ Orlin's Algorithm: $\mathcal{O}(V\cdot |E|)$ [Without Proof]
 
-> Applications in $\bullet$ Densest Subgraph Problem   $\bullet$ Baseball elimination estimation   $\bullet$ Project-resource selection problem
+> Applications in $\bullet$ Densest Subgraph Problem   $\bullet$ Baseball elimination estimation   $\bullet$ Project-resource selection problem  $\bullet$ Maximum bipartile matching 
+
+
+## Part-III: Linear Programming and Dual Problem
+$Standard\ LP\ Template:$
+
+> Find a vector: $\vec{x}$
+> 
+> that optimizes: $c^T \vec{x}$
+> 
+> subjected to:  $A\vec{x} \le b$
+> 
+> and: $\vec{x}> 0$
+
+$\textbf{Casting problems as Linear programming problem}:$
 >
+> 🌟 Maximum Flow problem in Linear programming template 
+>
+> 🌟 Linear Regression with absolute error loss function
+> 
+> ⭐ Linear Classification via Support vector machine (Hinge Loss)
+
+
 
