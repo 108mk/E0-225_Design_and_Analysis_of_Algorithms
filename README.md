@@ -52,7 +52,7 @@ $Standard\ LP\ Template:$
 
 > Find a vector: $\vec{x}$
 > 
-> that optimizes: $c^T \vec{x}$
+> that maximize: $c^T \vec{x}$
 > 
 > subjected to:  $A\vec{x} \le b$
 > 
@@ -65,6 +65,37 @@ $\textbf{Casting problems as Linear programming problem}:$
 > 🌟 Linear Regression with absolute error loss function
 > 
 > ⭐ Linear Classification via Support vector machine (Hinge Loss)
+>
+> ⭐ Maximum weight bipartile matching
+>
+> ⭐ Shortest path in a weighted graph
 
+$\textbf{Duality in Linear Programming}:$
+### Primal Form:
+> Find a vector: $\vec{x}$
+> 
+> that maximize: $c^T \vec{x}$
+> 
+> subjected to:  $A\vec{x} \le b$
+> 
+> and: $\vec{x}> 0$
+
+### Dual Form:
+> Find a vector: $\vec{y}$
+> 
+> that minimize: $b^T \vec{y}$
+> 
+> subjected to:  $A^{T}\vec{y} \ge c$
+> 
+> and: $\vec{y}> 0$
+
+$\textbf{Max-Flow and Min Cut as Primal-Dual LP problem}:$
+> $\bullet$ Primal problem: Maximum Flow in a network
+> 
+> $\bullet$ Dual problem: Minimum Cut in a graph 
+
+🎯 Interpretation of Primal and Dual problem
+
+🎯 Weak and Strong Duality Theorem for Linear Programming [Proof Omitted]
 
 
