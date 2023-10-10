@@ -59,16 +59,16 @@ $Standard\ LP\ Template:$
 > and: $\vec{x}> 0$
 
 $\textbf{Casting problems as Linear programming problem}:$
->
-> 🌟 Maximum Flow problem in Linear programming template 
->
-> 🌟 Linear Regression with absolute error loss function
-> 
-> ⭐ Linear Classification via Support vector machine (Hinge Loss)
->
-> ⭐ Maximum weight bipartile matching
->
-> ⭐ Shortest path in a weighted graph
+
+ 🌟 Maximum Flow problem in Linear programming template 
+
+ 🌟 Linear Regression with absolute error loss function
+ 
+ ⭐ Linear Classification via Support vector machine (Hinge Loss)
+
+ ⭐ Maximum weight bipartile matching
+
+ ⭐ Shortest path in a weighted graph
 
 $\textbf{Duality in Linear Programming}:$
 ### Primal Form:
@@ -96,7 +96,7 @@ $\textbf{Max-Flow and Min Cut as Primal-Dual LP problem}:$
 
 🎯 Interpretation of Primal and Dual problem
 
-🎯 Weak and Strong Duality Theorem for Linear Programming [Proof Omitted]
+🎯 $\textbf{Weak and Strong Duality Theorem}$ for Linear Programming [Proof Omitted]
 
 ### Part-IV: Skyline Problem
 > 2-D and 3-D skyline using $\mathcal{O}(n\cdot log(n))$ algorithms
