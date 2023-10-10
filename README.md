@@ -98,4 +98,11 @@ $\textbf{Max-Flow and Min Cut as Primal-Dual LP problem}:$
 
 🎯 Weak and Strong Duality Theorem for Linear Programming [Proof Omitted]
 
+### Part-IV: Skyline Problem
+> 2-D and 3-D skyline using $\mathcal{O}(n\cdot log(n))$ algorithms
+>> Sweep line technique with sorted points
+>> 
+>> Binary tree data structure with the doubly linked list; successor query
+>>
+
 
