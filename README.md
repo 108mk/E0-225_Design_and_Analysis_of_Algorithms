@@ -111,11 +111,27 @@ $\bullet$ Dual problem: Minimum Cut in a graph
 ### Part-IV: Skyline Problem
 2-D and 3-D skyline using $\mathcal{O}(n\cdot log(n))$ algorithms
 
-Sweep line technique with sorted points
+Sweep line technique with sorted points.
  
 Binary tree data structure (BST) with the doubly linked list; Successor and Predecessor Query in BST
 
 Chan Algorithms:  $\mathcal{O}(n\cdot log(k))$; $k$ is number of skyline point
+
+High dimensional generalization: More elaborate Data structures to solve these problems
+
+### Part-V: Approximate Algorithms
+Polynomial time approximation algorithms for NP-completes problems
+
+⭐ Minimum set cover via Greedy algorithms
+
+> Greedy is the optimal approach if P is not NP 
+
+⭐ Optimal Machine-Job scheduling problem:
+ 
+>  Naive greedy algorithms
+> 
+> Greedy on sorted dataset
+
 
 
 
