@@ -124,13 +124,17 @@ Polynomial time approximation algorithms for NP-completes problems
 
 ⭐ Minimum set cover via Greedy algorithms
 
-> Greedy is the optimal approach if P is not NP 
+> Greedy is the optimal approach if P is not NP: log(n)-approximate algorithms 
 
 ⭐ Optimal Machine-Job scheduling problem:
  
->  Naive greedy algorithms
+>  Naive greedy algorithms: 2-approximate algorithms
 > 
-> Greedy on sorted dataset
+> Greedy on the sorted dataset: 3/2-approximate algorithm
+
+⭐ Vertex cover via linear programming with rounding: 2-approximate algorithms
+>
+> Vertex cover and set cover interconversion
 
 
 
