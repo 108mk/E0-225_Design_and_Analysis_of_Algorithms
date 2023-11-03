@@ -137,5 +137,18 @@ Polynomial time approximation algorithms for NP-completes problems
 > Vertex cover and set cover interconversion
 
 
+### Part-VI: NP-Completeness 
+> P and NP classes
+>
+> Polytime primality test (Lucas test)
+> 
+> Karp Reduction
+> 
+> 3-SAT reduction to IND-SET
+>
+> IND-SET reduction to vertex cover
+
+### Randomized Algorithms
+
 
 
