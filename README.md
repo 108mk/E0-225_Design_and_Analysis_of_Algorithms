@@ -1,6 +1,11 @@
 # E0-225_Design_and_Analysis_of_Algorithms
 This is my personal repository for E0225: Design and Analysis of Algorithms. It is a foundational course at the Computer Science department, IISc Bengaluru. It aims to develop algorithmic thinking in students. You can find my codes and assignment solution along with class notes. Feel free to fork and use. Don't hesitate to report mistakes if you find them in the documents.
 
+## Books
+> Algorithm Design by Jon Kleinberg and Eva Tardos.
+> 
+> Introduction to Algorithms by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein.
+
 :accessibility: Highlights of important algorithmic paradigms and their real-world applications:
 ## Part-I: Greedy, Divide & Conquer and Dynamic Programming
 ### Paradigm-I: Greedy Algorithm
@@ -149,6 +154,23 @@ Polynomial time approximation algorithms for NP-completes problems
 > IND-SET reduction to vertex cover
 
 ### Randomized Algorithms
+> Monte Carlo and Las vegas algorithms
+
+> Probabilistic techniques: Markov, Chebyshev, Chernoff bound
+
+>
+> Application:
+>> Hash function
+>
+>> Randamized median finding algotithms
+>
+>> Randamised SAT-solver
+>
+>> certain Database algorithms
+>
+
+### Course website:
+https://www.csa.iisc.ac.in/~barman/daa23/E0225.html
 
 
 
